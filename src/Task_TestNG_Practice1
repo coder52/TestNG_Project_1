@@ -1,0 +1,51 @@
+Instructions from your teacher:
+NOTE: All TestNG practices should be in the same project and in the different class
+
+Everybody in the team should create their own account.
+
+Everybody in the team should upload the project individually.
+
+And everyone in the team should push the code to github as well.
+
+One member in the team should send the project to sena or ali but everyone push the code to github.
+
+After finishing the project create testNG.xml file and in this file run the TestNG Practices 1
+and TestNG Practices 2 run the project as parallel and in the chrome and in the firefox.
+Use the Thread.sleep as less as you can. Use a explicit wait.
+
+DO NOT DO THIS PROJECT IN THE MAIN METHOD PROJECT SHOULD BE IN THE
+ TESTNG.
+
+Use a page object model concept. Create a baseDriver class and login functionality should
+be done in this class.
+
+Use a page object model concept while working on the project.
+
+
+ Navigate to:  http://automationpractice.com/index.php
+
+Click on sign in button
+
+Click on the my addresses
+
+Click on the add a new address
+
+Enter all the fields (Choose random items from the dropdown)
+
+Click on save button
+
+Verify your address is displayed in the website
+
+Click on the update button
+
+Change the first name and last name
+
+Click on the save button
+
+Verify first name and last name is updated
+
+Click on the delete button
+
+Click on the okay
+
+Verify address is removed from the website
